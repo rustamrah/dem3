@@ -1,0 +1,9 @@
+﻿<Application x:Class="dem3.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:dem3"
+             StartupUri="EntranceWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
